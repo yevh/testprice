@@ -1,0 +1,18 @@
+{
+  "name": "bitcoin-price-aggregator",
+  "version": "1.0.2",
+  "description": "Consolidate prices from multiple cryptocurrency price sources",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadiesaechao/bitcoin-price-aggregator.git"
+  },
+  "keywords": [],
+  "author": "sadiesaechao",
+  "license": "MIT",
+  "dependencies": {}
+}
